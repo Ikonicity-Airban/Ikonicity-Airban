@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Ikonicity-Airban/Ikonicity-Airban** is a ✨starter ✨ repository because its contents appears on your GitHub profile.
+**Ikonicity-Airban/Ikonicity-Airban** 
 
-# learning from johnsmilgan
 
+my name is Eban Godwin Ikonicity, i am a full-stack web developer and a software engineer
